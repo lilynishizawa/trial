@@ -1,3 +1,5 @@
+print("The first 20 prime numbers are:")
+
 def primenum(n):
     if n < 2:
         return False
